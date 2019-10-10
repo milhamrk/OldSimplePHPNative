@@ -1,0 +1,20 @@
+[29-Sep-2018 09:14:04 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/karyanto/public_html/karyanto.com/demo/admin/login.php on line 42
+[29-Sep-2018 09:14:04 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/karyanto/public_html/karyanto.com/demo/admin/login.php on line 43
+[29-Sep-2018 09:14:12 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/karyanto/public_html/karyanto.com/demo/admin/login.php on line 42
+[29-Sep-2018 09:14:12 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/karyanto/public_html/karyanto.com/demo/admin/login.php on line 43
+[29-Sep-2018 09:14:42 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/karyanto/public_html/karyanto.com/demo/admin/login.php on line 42
+[29-Sep-2018 09:14:42 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/karyanto/public_html/karyanto.com/demo/admin/login.php on line 43
+[30-Sep-2018 04:43:20 UTC] PHP Fatal error:  Call to undefined function sesison_destroy() in /home/karyanto/public_html/karyanto.com/demo/admin/index.php on line 8
+[30-Sep-2018 04:43:22 UTC] PHP Fatal error:  Call to undefined function sesison_destroy() in /home/karyanto/public_html/karyanto.com/demo/admin/index.php on line 8
+[30-Sep-2018 04:43:30 UTC] PHP Fatal error:  Call to undefined function sesison_destroy() in /home/karyanto/public_html/karyanto.com/demo/admin/index.php on line 8
+[30-Sep-2018 05:05:36 UTC] PHP Notice:  Undefined variable: terms in /home/karyanto/public_html/karyanto.com/demo/admin/page/info.php on line 19
+[30-Sep-2018 05:06:01 UTC] PHP Notice:  Undefined variable: terms in /home/karyanto/public_html/karyanto.com/demo/admin/page/info.php on line 19
+[30-Sep-2018 05:06:05 UTC] PHP Notice:  Undefined variable: terms in /home/karyanto/public_html/karyanto.com/demo/admin/page/info.php on line 19
+[30-Sep-2018 07:36:44 UTC] PHP Notice:  Undefined variable: d in /home/karyanto/public_html/karyanto.com/demo/admin/page/teamUbah.php on line 18
+[30-Sep-2018 07:36:52 UTC] PHP Notice:  Undefined variable: d in /home/karyanto/public_html/karyanto.com/demo/admin/page/teamUbah.php on line 18
+[30-Sep-2018 07:38:43 UTC] PHP Notice:  Undefined index: tmp_name in /home/karyanto/public_html/karyanto.com/demo/admin/page/teamUbah.php on line 18
+[30-Sep-2018 07:38:48 UTC] PHP Notice:  Undefined index: tmp_name in /home/karyanto/public_html/karyanto.com/demo/admin/page/teamUbah.php on line 18
+[30-Sep-2018 07:39:22 UTC] PHP Notice:  Undefined index: tmp_name in /home/karyanto/public_html/karyanto.com/demo/admin/page/teamUbah.php on line 18
+[30-Sep-2018 13:10:12 UTC] PHP Notice:  Undefined index: nama_kategori in /home/karyanto/public_html/karyanto.com/demo/admin/page/portofolioUbah.php on line 47
+[30-Sep-2018 13:10:12 UTC] PHP Notice:  Undefined index: description in /home/karyanto/public_html/karyanto.com/demo/admin/page/portofolioUbah.php on line 62
+[30-Sep-2018 13:10:33 UTC] PHP Notice:  Undefined index: description in /home/karyanto/public_html/karyanto.com/demo/admin/page/portofolioUbah.php on line 62
